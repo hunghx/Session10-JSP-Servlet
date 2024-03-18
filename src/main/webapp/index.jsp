@@ -29,6 +29,7 @@ c3 code logic : <%%>
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
+<a href="/upload.jsp" >Upload form</a>
 <a href="/todo?action=GETALL" >Danh sach công việc</a>
 <a href="/todo-jsp?action=GETALL" >Danh sach công việc (JSP)</a>
 <%--the a phương thức get -> doGet--%>
